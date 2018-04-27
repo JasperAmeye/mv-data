@@ -9,6 +9,11 @@
 			"name": "Test2",
 			"email": "Test2@hotmail.com",
 			"birthday": "1999-08-02"
+		},
+		{
+			"name": "User3",
+			"email": "User3@gmail.com",
+			"birthday": "2001-02-13"
 		}
 	],
 	"event": [
